@@ -134,10 +134,15 @@ http://localhost/php/user.php
 Add screenshots of:
 
 - Dashboard Home
-- Analytics Section
+  <img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/077b6d14-01b6-489b-954d-ef40113f2c9e" />
+
+
 - User Management
+  <img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/ae5e7fa8-fafb-4b89-999b-bcdf5181458e" />
+
 - Login Page
-- Reports Section
+  <img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/f8a09706-0f50-475c-a66b-7735b6a1cd1c" />
+
 
 ---
 
